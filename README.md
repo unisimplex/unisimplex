@@ -17,7 +17,7 @@
 <!-- INTRO -->
 <table align="center" border="0">
 <tr>
-<td width="58%">
+<td width="35%">
 
 ### 🕷️ Who Am I?
 
@@ -44,7 +44,7 @@ class SpiderDev:
 ```
 
 </td>
-<td width="50%" align="center">
+<td width="100%" align="center">
 
 ![](https://github.com/user-attachments/assets/39bc9a07-6c80-45e6-8436-afe5fd13efdd)
 
