@@ -17,33 +17,6 @@
 <!-- INTRO -->
 <table align="center" border="0">
 <tr>
-<td width="35%">
-
-### 🕷️ Who Am I?
-
-```python
-class SpiderDev:
-    name     = "Priyanshu Upadhyay"
-    alias    = "unisimplex"
-    college  = "MPEC — CSE (AI & ML)"
-    location = "India 🇮🇳"
-
-    interests = [
-        "Artificial Intelligence",
-        "Internet of Things",
-        "Cybersecurity",
-        "Edge AI & Optimization",
-        "Human Psychology 🧠",
-        "Writing & Poetry ✍️",
-    ]
-
-    currently_building = "Zero Day Hunter 🕸️"
-
-    def motto(self):
-        return "With great power comes great code."
-```
-
-</td>
 <td width="100%" align="center">
 
 ![](https://github.com/user-attachments/assets/39bc9a07-6c80-45e6-8436-afe5fd13efdd)
